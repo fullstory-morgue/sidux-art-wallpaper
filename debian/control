@@ -1,12 +1,13 @@
 Source: sidux-art-wallpaper
-Section: unknown
+Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
-Build-Depends: cdbs, cdbs, debhelper (>= 5)
+Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
 
 Package: sidux-art-wallpaper
-Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Architecture: all
+Depends: 
+Description: default sidux wallpaper 
+ the default wallpaper for the current 
+ sidux release
