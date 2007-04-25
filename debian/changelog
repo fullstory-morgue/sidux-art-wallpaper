@@ -1,7 +1,6 @@
 sidux-art-wallpaper (0.0) unstable; urgency=low
 
-  * NOT RELEASED YET
-
+  [ Bernard Gray ]
   * Initial Release.
   * add sidux.png and sidux-wide.png based on cathbard's sidux-debian art
   * add source xcf and license
@@ -11,5 +10,9 @@ sidux-art-wallpaper (0.0) unstable; urgency=low
   * remove unneeded extra license info
   * tested package build and install
   * lintian tested 
+  
+  [ Stefan Lippers-Hollmann ]
+  * remove empty depends.
+  * add myself as uploader.
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Apr 2007 21:30:26 +1000
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Apr 2007 13:42:03 +0200
