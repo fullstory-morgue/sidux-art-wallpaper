@@ -8,7 +8,7 @@ Standards-Version: 3.7.2
 
 Package: sidux-art-wallpaper
 Architecture: all
-Depends: sidux-art-wallpaper-tartaros
+Depends: sidux-art-wallpaper-tartaros | sidux-art-wallpaper-gaia
 Conflicts: sidux-art-wallpaper (<= 0.0.0)
 Description: sidux wallpaper virtual package
  Depepnds on wallpaper package for current release
