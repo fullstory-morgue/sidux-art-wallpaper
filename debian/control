@@ -8,6 +8,7 @@ Standards-Version: 3.7.2
 
 Package: sidux-art-wallpaper
 Architecture: all
-Description: default sidux wallpaper 
- the default wallpaper for the current 
- sidux release
+Depends: sidux-art-wallpaper-tartaros
+Conflicts: sidux-art-wallpaper (<= 0.0.0)
+Description: sidux wallpaper virtual package
+ Depepnds on wallpaper package for current release

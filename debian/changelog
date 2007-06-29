@@ -9,9 +9,12 @@ sidux-art-wallpaper (0.0.1) UNRELEASED; urgency=low
   * update copyright for gaia
   * backport zoom from kdm theme
   * add bells n whistles
-  * add wide aspect ratio source + bitmap 
+  * add wide aspect ratio source + bitmap
 
- -- Bernard Gray <bernard.gray@gmail.com>  Fri, 29 Jun 2007 10:17:06 +1000
+  [ Kel Modderman ]
+  * Make into dumb virtual package.
+
+ -- Kel Modderman <kel@otaku42.de>  Fri, 29 Jun 2007 22:23:59 +1000
 
 sidux-art-wallpaper (0.0) unstable; urgency=low
 
