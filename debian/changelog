@@ -1,7 +1,4 @@
-sidux-art-wallpaper (0.0.1) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+sidux-art-wallpaper (0.0.1) unstable; urgency=low
 
   [ Bernard Gray ]
   * update source for gaia release
