@@ -1,8 +1,9 @@
 sidux-art-wallpaper (0.0.3) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * update syntax for Vcs headers in debian/control
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 29 Sep 2007 10:44:14 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Oct 2007 14:47:44 +0200
 
 sidux-art-wallpaper (0.0.2) unstable; urgency=low
 
