@@ -10,7 +10,6 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper/trunk/
 
 Package: sidux-art-wallpaper
 Architecture: all
-Depends: sidux-art-wallpaper-gaia | sidux-art-wallpaper-eros
-Conflicts: sidux-art-wallpaper (<= 0.0.0)
+Depends: sidux-art-wallpaper-nyx | sidux-art-wallpaper-theme
 Description: sidux wallpaper virtual package
  Depepnds on wallpaper package for current release
