@@ -1,8 +1,12 @@
 sidux-art-wallpaper (0.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 02:02:34 +0200
+  [ Bernard Gray ]
+  * update for erebos 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 27 May 2008 15:30:59 +1000
 
 sidux-art-wallpaper (0.2) unstable; urgency=low
 
